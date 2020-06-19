@@ -6,8 +6,8 @@
 
 [Ссылка на UpLabs](https://www.uplabs.com/posts/fitness-gym-app-ui-design-concept)
 
-![Reference](random/reference.jpg)
+<img src="random/reference.jpg" width="600">
 
 Что получилось:
 
-![Result](random/result.png)
+<img src="random/result.png" width="250">
